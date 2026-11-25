@@ -12,8 +12,8 @@ A simple Tic Tac Toe game in Python where you play against the computer.
 ## How to Play
 Enter a number 1-9 to place your X:
 
-1 | 2 | 3 
-4 | 5 | 6
+1 | 2 | 3 |
+4 | 5 | 6 |
 7 | 8 | 9
 
 
